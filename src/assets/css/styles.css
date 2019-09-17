@@ -1,0 +1,23 @@
+html, body {
+    font-size: 16px;
+}
+body {
+    margin: 0;
+}
+
+body #___gatsby {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body a {
+    color: #55A653;
+    text-decoration: underline;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.modal-open {
+    overflow: auto !important;
+}
