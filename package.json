@@ -157,7 +157,7 @@
     "jest": "19.0.2",
     "lint-staged": "3.4.0",
     "mkdirp": "^0.5.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "plop": "^1.7.4",
     "raw-loader": "^0.5.1",
     "react-addons-test-utils": "^15.5.1",
