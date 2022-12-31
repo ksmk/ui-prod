@@ -152,7 +152,7 @@
     "eslint-plugin-prettier": "^2.6.0",
     "eslint-plugin-react": "^7.7.0",
     "file-loader": "^3.0.1",
-    "flat": "^2.0.1",
+    "flat": "^5.0.1",
     "husky": "0.13.3",
     "jest": "19.0.2",
     "lint-staged": "3.4.0",
